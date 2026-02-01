@@ -1,4 +1,3 @@
-
 <p  align="center">
 <a  href=""  rel="noopener">
 <img  height=200px  src="assets/commanddash-logo.png"></a>
@@ -7,6 +6,7 @@
 <div align = "center">
 
 [![VScode Downloads](https://img.shields.io/visual-studio-marketplace/d/WelltestedAI.fluttergpt)](https://marketplace.visualstudio.com/items?itemName=WelltestedAI.fluttergpt&ssr=false#overview) [![License: APACHE](https://img.shields.io/badge/License-APACHE%202.0-yellow)](/LICENSE)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fdash-ai.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fdash-ai?ref=badge_shield)
 </div>
 
 <h3 align="center">Your Flutter AI Copilot powered with Gemini Code & Vision</h3>
@@ -95,3 +95,6 @@ A copilot for all is best built when all of us contribute. You can make contribu
 ## Community
 
 Connect with like minded people building with Flutter and using AI to do so, every step of the way :D [Join Now](https://join.slack.com/t/welltested-ai/shared_invite/zt-25u09fty8-gaggH9HbmopB~4tialTrlA)
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fdash-ai.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fdash-ai?ref=badge_large)
